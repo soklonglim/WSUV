@@ -1,0 +1,18 @@
+Name: Soklong Lim
+SID: 11458249
+Email: soklong.lim@wsu.edu
+Class: CS 360 (System Programming)
+Assignment 1 (Hash Table)
+Due: February 1, 2016
+
+Description: this is a program (in C) which reads words from one or more
+files, and prints out a list of the most frequently occuring sequential pairs
+of words and the number of times they occured in decreasing order of occurence.
+
+
+List of Files: main.c ht.c ht.h README
+
+Build: 
+	compile:	$make
+	run:	$./wordpairs <-count> filename1 <filename2> ...
+    
